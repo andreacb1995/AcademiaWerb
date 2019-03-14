@@ -21,6 +21,7 @@
     <input type="text" name="contrasenha" placeholder="Contraseña alumno">
     <input type="number" name="edad" placeholder="Edad alumno">
     <input type="submit" value="Nuevo alumno">
+
 </form>
 <%
 for(Alumno alumno:al){
